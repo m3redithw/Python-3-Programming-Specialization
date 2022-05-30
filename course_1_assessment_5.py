@@ -1,4 +1,5 @@
 # q1. What will the output be for the following code?
+
 let = "z"
 let_two = "p"
 c = let_two + let
@@ -23,6 +24,7 @@ qy = "keep it up!"
 message = by+" "+az+io+", "+qy
 
 # q4. What will the output be for the following code?
+
 ls = ['run', 'world', 'travel', 'lights', 'moon', 'baseball', 'sea']
 new = ls[2:4]
 print(new)
@@ -30,24 +32,28 @@ print(new)
 # ['travel', 'lights']
 
 # q5. What is the type of m?
+
 l = ['w', '7', 0, 9]
 m = l[1:2]
 
 # list
 
 # q6. What is the type of m?
+
 l = ['w', '7', 0, 9]
 m = l[1]
 
 # string
 
 # q7. What is the type of x?
+
 b = "My, what a lovely day"
 x = b.split(',')
 
 # list
 
 # q8. What is the type of a?
+
 b = "My, what a lovely day"
 x = b.split(',')
 z = "".join(x)
